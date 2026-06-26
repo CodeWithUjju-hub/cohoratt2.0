@@ -7,3 +7,22 @@ html,body{
     height: 100%;
     width: 100%;
 }
+#parent{
+    height: 100%;
+    width: 100%;
+}
+#box1{
+    height: 300px;
+    width: 300px;
+    background-color:skyblue;
+}
+#box2{
+    height: 300px;
+    width: 300px;
+    background-color:violet;
+}
+#box3{
+    height: 300px;
+    width: 300px;
+    background-color:brown;
+}
